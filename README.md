@@ -42,11 +42,11 @@ Créer une version web de la charte co-construite des apprenant.e.s
 ### Step #0 : `create your file structure`
 
 > dossier_du_projet
-
+>
 > > index.html
-
+>
 > > style.css
-
+>
 > > db.php
 
 ### Step #1 : `create your HTML page`
