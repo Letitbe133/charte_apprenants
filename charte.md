@@ -2,19 +2,18 @@
 
 ## Fonctionnement global de la promo / Boon of the tiger
 
-- liste des besoins pour le salon
+- le confort de tou.te.s en compte tu prendras
 - des locaux propres tu préserveras
-- rangement collectif le vendredi
-- météo : focus sur l'humeur du moment (pas de topics techniques)
-- respect des personnes qui parlent
-- respect des délais avec une certaine souplesse (vidéo 5mn ou moins)
-- mobiles en silencieux lors des prez
+- collectivement le vendredi tu rangeras
+- ta météo brièvement tu feras
+- la veille tu respecteras
 - la feuille de présence tu signeras
+- dans le travail concentré tu seras
 
 ## Etat d'esprit / vision / Hidden war
 
 - à la réussite collective tu oeuvreras
-- plus haut que ton cul tu ne pèteras
+- plus haut que ton cul ne pèteras
 - quand la parole tu prendras l'attention tu auras
 - au bien être de tous tu veilleras
 - dans le partage tu travailleras
@@ -27,10 +26,9 @@
 
 - assidu tu seras
 - le temps de parole tu respecteras
-- tes formateurs tu écouteras
+- tes formateurs tu respecteras
 - l'entraide tu pratiqueras
-- une curiosité exemplaire tu auras
-- coder tu feras
+- ta curiosité tu aiguiseras
 - ta connaissance constamment tu élargiras
 - dans tes recherches, méthodique tu seras
 - ces règles tu appliqueras
